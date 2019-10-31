@@ -1,7 +1,7 @@
 
 # Elo, I love you, won't you tell me your name
 
-Michael Yudelson, ACT, Inc., [:email:](mailto:myudelson@gmail.com)
+Michael Yudelson, ACT, Inc., [:envelope:](mailto:myudelson@gmail.com)
 
 Paper persented at EC-TEL, 2019 in Delft, Netherlands, 16-19 September 2019
 
@@ -34,7 +34,6 @@ Folder structure.
 - `bin` – compiled binary files.
 - `code` – source code and scripts.
 	- `code/hmm` – HMM-scalable command line tool, cf. [http://yudelson.info/hmm-scalable/](http://yudelson.info/hmm-scalable/).
-	- `code/liblinear` – a modded LIBLINEAR utility with mixed-effect binomial regression solver added, cf. [https://github.com/IEDMS/liblinear-mixed-models](https://github.com/IEDMS/liblinear-mixed-models).
 - `data/source` – Source data – files downloaded from LearnSphere and KDD Cup 2010 go here. The data is not included with the repository. KDD Cup 2010 data can be obtained from [http://pslcdatashop.org/KDDCup/](http://pslcdatashop.org/KDDCup/) (registration required). LearnSphere data can be obtained from [http://pslcdatashop.web.cmu.edu](http://pslcdatashop.web.cmu.edu ) (registration required):
 	- `ds76` [https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=76](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=76) is available automatically.
 	- `ds392` [https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=392](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=392) requires approval of data owner.
