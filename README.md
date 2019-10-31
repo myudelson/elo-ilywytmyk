@@ -1,7 +1,7 @@
 
 # Elo, I love you, won't you tell me your name
 
-Michael Yudelson, ACT, Inc., [:envelope:](mailto:myudelson@gmail.com)
+Michael Yudelson, ACT, Inc., [email](mailto:myudelson@gmail.com)
 
 Paper persented at EC-TEL, 2019 in Delft, Netherlands, 16-19 September 2019
 
