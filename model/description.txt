@@ -1,0 +1,2 @@
+Modeling result files are saved here.
+We have added a "__to_compare" suffix to all model files so that you can verify your fitting results.

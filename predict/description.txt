@@ -1,0 +1,3 @@
+Prediction results are saved here.
+We have removed prediction results of the two larger datasets to conserve space.
+We have added a "__to_compare" suffix to prediction files so that you can verify your fitting results.
